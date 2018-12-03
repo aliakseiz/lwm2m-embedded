@@ -1,3 +1,9 @@
+## Difference from Eclipse Wakaama
+ * No ``malloc``
+ * Optimized for limited RAM
+
+---
+
 Wakaama (formerly liblwm2m) is an implementation of the Open Mobile Alliance's LightWeight M2M
 protocol (LWM2M).
 
